@@ -17,10 +17,10 @@ public class Run extends Person{
 		int id = rand.nextInt((99999) + 1);
 		
 		System.out.println("Here is your id: "+id);
-		System.out.println("------------------------");
-		System.out.println("------------------------");
-		System.out.println("------------------------");
-
+		//System.out.println("------------------------");
+		//System.out.println("------------------------");
+	        //System.out.println("------------------------");
+                System.out.println("GOODBYE");
 
 
 	}
